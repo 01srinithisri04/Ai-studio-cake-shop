@@ -1,0 +1,6 @@
+{
+  "name": "Maison Céleste | Artisanal Bakery & Cake Studio",
+  "description": "Bespoke celebration cakes, tiered wedding confections, and handcrafted seasonal patisserie baked fresh daily with organic French flours and pure botanical infusions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
